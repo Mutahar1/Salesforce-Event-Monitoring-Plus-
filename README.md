@@ -20,11 +20,13 @@ Event Monitoring Plus extends Salesforce’s native Event Monitoring Analytics b
 
 ## Key Capabilities
 
+
 ### Event Visibility
 - Login history and user activity analysis  
 - API usage tracking  
-- Report execution and export monitoring  
+- Report execution and export monitoring
 
+ 
 ### Security & Compliance
 - Identify suspicious or risky behavior patterns  
 - Support audit and compliance reviews  
@@ -155,6 +157,8 @@ Capabilities:
 Uses:
 - LightningInteraction event log
 
+![Iamge Alt](https://github.com/Mutahar1/Salesforce-Event-Monitoring-Plus-/blob/e736339517bba3fa3b44db9286387f0ea2eba8ca/147172567-c1ff9dee-c955-4429-a163-c104363f9c8d.png)
+
 
 User Activities
 ---------------
@@ -179,6 +183,7 @@ Capabilities:
 
 Uses:
 - ApexExecutionWithUsers
+ ![Image Alt](https://github.com/Mutahar1/Salesforce-Event-Monitoring-Plus-/blob/e736339517bba3fa3b44db9286387f0ea2eba8ca/147172579-f79cc601-23c6-4e1e-83bd-4b352a377aed.png)
 
 
 Apex Exceptions
@@ -199,6 +204,7 @@ Capabilities:
 Uses:
 - ApexUnexpectedException
 
+![Image Alt](https://github.com/Mutahar1/Salesforce-Event-Monitoring-Plus-/blob/e736339517bba3fa3b44db9286387f0ea2eba8ca/147174402-a45c0868-872e-45d2-97bc-495a3359c994.png)
 
 Lightning Page Performance (EPT)
 --------------------------------
@@ -214,6 +220,7 @@ Uses:
 - LightningPageViewWithUsers
 - LightningInteraction
 
+![Image Alt](https://github.com/Mutahar1/Salesforce-Event-Monitoring-Plus-/blob/e736339517bba3fa3b44db9286387f0ea2eba8ca/157493917-9955c525-0332-4c2a-8b67-0caea2508815.png)
 
 Experience Cloud Page Performance
 ---------------------------------
@@ -223,6 +230,7 @@ Experience Cloud Page Performance
 - Optimized for Experience Cloud templates
 
 ⚠️ Not tested with Aura or LWR Build-Your-Own sites
+![Image Alt](https://github.com/Mutahar1/Salesforce-Event-Monitoring-Plus-/blob/e736339517bba3fa3b44db9286387f0ea2eba8ca/191331061-3a32f043-bf29-423c-8852-dcb3d8f24ab1.png)
 
 
 Report Adoption
@@ -238,6 +246,7 @@ Performance:
 Security:
 - CSV, Excel, and printable exports
 
+![Image Alt](https://github.com/Mutahar1/Salesforce-Event-Monitoring-Plus-/blob/e736339517bba3fa3b44db9286387f0ea2eba8ca/212783437-090034c7-5505-47a5-9534-7c570e560c7b.png)
 
 Org Performance Overview
 ------------------------
@@ -248,7 +257,7 @@ A high-level performance lens across:
 - Org-wide failure hotspots
 
 Ideal as a starting point before deeper investigation.
-
+![Image Alt](https://github.com/Mutahar1/Salesforce-Event-Monitoring-Plus-/blob/e736339517bba3fa3b44db9286387f0ea2eba8ca/236536412-617a30bc-9a28-4fa4-ac4c-ce5d74a06607.png)
 
 Notes & Observations
 --------------------
@@ -264,9 +273,3 @@ License
 -------
 This project is released under the MIT License.
 
-
-## Dataset Mapping & Adjustments
-
-### Example Dataset Rename
-```text
-LightningPageViewWithUsers → LightningPageViewWithUsers1
