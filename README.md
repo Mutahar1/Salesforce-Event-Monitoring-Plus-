@@ -1,4 +1,12 @@
 # Event Monitoring Plus
+![Salesforce](https://img.shields.io/badge/Salesforce-179CF0?style=for-the-badge&logo=salesforce&logoColor=white)
+![CRM Analytics](https://img.shields.io/badge/CRM_Analytics-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Lightning Web Components](https://img.shields.io/badge/Lightning_Web_Components-00B4F0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Ant](https://img.shields.io/badge/Apache_Ant-EE0000?style=for-the-badge&logo=apache-ant&logoColor=white)
+![SFDX](https://img.shields.io/badge/Salesforce_DX-179CF0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 
 A lightweight yet powerful collection of **CRM Analytics (CRMA) dashboards** designed to give Salesforce teams deep visibility into **Event Monitoring data** across user behavior, performance, security, and adoption.
 
